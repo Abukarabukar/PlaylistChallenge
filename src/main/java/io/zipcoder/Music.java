@@ -28,7 +28,7 @@ public class Music {
             backward++;
             //1
             if (j == 0) {
-                //unclear
+
                 j = playList.length;
             }
 
